@@ -1,7 +1,4 @@
 
-<div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=000000&center=false&vCenter=true&width=500&lines=Hello!+I'm+Jiwoo+Wee" alt="Typing SVG" />
-</div>
 
 
 <div align="center">
