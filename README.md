@@ -7,6 +7,13 @@
   </a>
 </div>
 
+<div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💌 Contact me </h2> <br> 
+    <div align= "center"> <a href=mailto:jw201012@sookmyung.ac.kr> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jw201012@sookmyung.ac.kr"> </a>
+         <a href=____withyou> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=____withyou"> </a>
+          </div>  <br> 
+    <div align= "center">  </div> 
+    </div>
 
 ## 👩🏻‍💻 Keep Studying
 
@@ -16,16 +23,5 @@
 </div>
 
 
-<div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center"> <a href=mailto:jw201012@sookmyung.ac.kr> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jw201012@sookmyung.ac.kr"> </a>
-         <a href=____withyou> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=____withyou"> </a>
-          </div>  <br> 
-    <div align= "center">  </div> 
-    </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=withya16&bg_color=180,00000000,&title_color=000000&text_color=000000"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=withya16&layout=compact&bg_color=180,00000000,&title_color=000000&text_color=000000"
-           /> </div> 
-    </div>
-    
+
+
