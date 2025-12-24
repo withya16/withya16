@@ -1,4 +1,4 @@
-## 🛠 Keep Studying
+## 👩🏻‍💻 Keep Studying
 
 | Category | Skills |
 | :--- | :--- |
