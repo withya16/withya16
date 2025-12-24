@@ -1,4 +1,4 @@
-## 🛠 Tech Stacks
+## 🛠 Keep Studying
 
 | Category | Skills |
 | :--- | :--- |
