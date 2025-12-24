@@ -1,3 +1,18 @@
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=3776AB&center=true&vCenter=true&width=500&lines=Hello!+I'm+a+Data+Engineer;Specializing+in+AI+and+RAG;Building+Data+Pipelines" alt="Typing SVG" />
+</div>
+
+
+<div align="center">
+  <a href="https://github.com/devxb/gitanimals">
+    <img src="https://render.gitanimals.org/farms/withya16" width="600" height="120" />
+  </a>
+</div>
+
+<br />
+
+
 ## 👩🏻‍💻 Keep Studying
 
 | Category | Skills |
