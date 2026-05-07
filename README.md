@@ -29,6 +29,7 @@
 ## 💼 Experience
 
 **대웅제약 AX팀** — 인턴 · SAP n8n 워크플로우 구축 / MCP Gateway 개발 `2026.02 – 2026.08`
+
 **대웅제약 CRM팀** — 글로벌 AI 장학생 · 경쟁사 동향 분석 크롤링 프로젝트 `2025.11 - 2026.02`
 
 ---
@@ -36,9 +37,13 @@
 ## 🏆 Awards
 
 🏆 **Grand Prize** — DACOS & SOLUX 공동 주최 해커톤 `2024.09`
+
 🥇 **Best Award** — DACOS 데이터톤 `2024.05`
+
 🥇 **Best Award** — [대웅재단·숙명여자대학교 공동 AI 해커톤](https://github.com/withya16/RupaRupa) `2025.09`
+
 🥉 **Merit Award** — [카카오 × 한국정보과학회 AI 에이전트 경진대회](https://github.com/withya16/research-mate) `2025.11`
+
 🥉 **Merit Award** — [SM data 공모전](https://github.com/withya16/SM-data) `2025.11`
 
 ---
@@ -46,10 +51,15 @@
 ## 🎓 Activities
 
 **FORZA** `2023.03 - 2024.12`
+
 [**DACOS**](https://github.com/DACOS-Data-Analysis-Club-Of-Sookmyung) — 데이터 분석 학회 · 2기 부원 [SMU-MENU](https://github.com/withya16/SMU-MENU) · 3기 부원 및 운영진 [aplussaekki](https://github.com/aplussaekki/aplussaekki) · 4기 운영진 `2024.03 – Present`
+
 **GoGDC Sookmyung 24** — AI파트 `2024.09 - 2024.12`
+
 **BOAZ** — 빅데이터 연합 학회 · 데이터 엔지니어링 트랙 · 24기 엔지니어링 부문 대표 · 운영지원팀 운영진 `2025.01 - 2026.01`
+
 **CloudClub** 9기 — [Rocky Linux](https://github.com/withya16/09th-rocky-rookie) · [K8s CRD & Operator](https://github.com/cloud-club/09th-k8s-crd-operator) · [GPU Deep Dive](https://github.com/cloud-club/09th-gpu-deep-dive) `2026.01 - Present`
+
 **Snorose** — DevOps팀 `2026.01 - Present`
 
 ---
