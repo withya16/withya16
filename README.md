@@ -28,8 +28,8 @@
 
 ## 📌 Experience & Activities
 
-- **대웅제약 AX팀** — 인턴 `2026.02 – Present` <br>
-- **CloudClub** 9기 `2026.01 - Present` <br>
+**대웅제약 AX팀** — 인턴 `2026.02 – Present` <br>
+**CloudClub** - 9기 `2026.01 - Present` <br>
 **Snorose** — DevOps팀 `2026.01 - Present` <br>
 **대웅제약 CRM팀** — 글로벌 AI 장학생 `2025.11 - 2026.02` <br>
 **BOAZ** — 24기 엔지니어링 부문 대표 `2025.01 - 2026.01` <br>
