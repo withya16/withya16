@@ -54,14 +54,7 @@
 
 **FORZA** `2023.03 - 2024.12`
 
-[**| 활동 | 설명 | 학기 |
-|---|---|:---:|
-| **FORZA** |  | 2023.03 - 2024.12 |
-| **DACOS-Data-Analysis-Club-Of-Sookmyung** — 데이터 분석 학회 | 2기 부원 [SMU-MENU](https://github.com/withya16/SMU-MENU) · 3기 부원 및 운영진 [aplussaekki](https://github.com/aplussaekki/aplussaekki) · 4기 운영진 | 2024.03 – Present |
-| **GoGDC Sookmyung 24** | AI파트 | 2024.09 - 2024.12 |
-| **BOAZ** — 빅데이터 연합 학회 | 데이터 엔지니어링 트랙 · 24기 엔지니어링 부문 대표 · 운영지원팀 운영진 | 2025.01 - 2026.01 |
-| **CloudClub** 9기 | [Rocky Linux 스터디](https://github.com/withya16/09th-rocky-rookie) · [K8s CRD & Operator 스터디](https://github.com/cloud-club/09th-k8s-crd-operator) · [GPU Deep Dive 스터디](https://github.com/cloud-club/09th-gpu-deep-dive) | 2026.01 - Present |
-| **Snorose** | DevOps팀 | 2026.01 - Present |**](https://github.com/DACOS-Data-Analysis-Club-Of-Sookmyung) — 데이터 분석 학회 `2024.03 – Present`
+**DACOS-Data-Analysis-Club-Of-Sookmyung** — 데이터 분석 학회 `2024.03 – Present`
 > 2기 부원 [SMU-MENU](https://github.com/withya16/SMU-MENU) · 3기 부원 및 운영진 [aplussaekki](https://github.com/aplussaekki/aplussaekki) · 4기 운영진
 
 **GoGDC Sookmyung 24** — AI파트 `2024.09 - 2024.12`
