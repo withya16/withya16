@@ -17,7 +17,7 @@
     <div align="center"> </div> 
 </div>
 
-## 👩🏻‍💻 Keep Studying
+##  Keep Studying
 
 <div align="center">
 
@@ -26,7 +26,7 @@
 
 ---
 
-## 📌 Experience & Activities
+## Experience & Activities
 
 - **대웅제약 AX팀** — 인턴 `2026.02 – Present` <br>
 - **CloudClub** - 9기 `2026.01 - Present` <br>
@@ -38,7 +38,7 @@
 - **FORZA** `2023.03 - 2024.12`
 
 
-## 🏆 Awards
+##  Awards
 
 🏆 **Grand Prize** — DACOS & SOLUX 공동 주최 해커톤 `2024.09`<br>
 🥇 **Best Award** — DACOS 데이터톤 `2024.05`<br>
@@ -48,13 +48,13 @@
 
 
 
-## 📜 Certifications
+## Certifications
 
 ![SQLD](https://img.shields.io/badge/SQLD-취득-blue?style=flat-square)
 ![ADsP](https://img.shields.io/badge/ADsP-취득-blue?style=flat-square)
 
 
-## 📄 Publications
+## Publications
 
 [**Reviewer-RAG: 근거 검증 기반 RAG의 정확도 향상 분석**](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12577765) `2025.12`
 
