@@ -34,7 +34,6 @@
 **대웅제약 CRM팀** — 글로벌 AI 장학생 `2025.11 - 2026.02`
 > 경쟁사 동향 분석 프로젝트
 
----
 
 ## 🏆 Awards
 
@@ -48,7 +47,6 @@
 
 🥉 **Merit Award** — [SM data 공모전](https://github.com/withya16/SM-data) `2025.11`
 
----
 
 ## 🎓 Activities
 
@@ -67,14 +65,12 @@
 
 **Snorose** — DevOps팀 `2026.01 - Present`
 
----
 
 ## 📜 Certifications
 
 ![SQLD](https://img.shields.io/badge/SQLD-취득-blue?style=flat-square)
 ![ADsP](https://img.shields.io/badge/ADsP-취득-blue?style=flat-square)
 
----
 
 ## 📄 Publications
 
