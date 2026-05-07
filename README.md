@@ -56,7 +56,7 @@
 
 ## Publications
 
-[**Reviewer-RAG: 근거 검증 기반 RAG의 정확도 향상 분석**](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12577765) `2025.12`
+[Reviewer-RAG: 근거 검증 기반 RAG의 정확도 향상 분석](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12577765) `2025.12`
 
 
 
