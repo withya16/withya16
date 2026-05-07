@@ -40,11 +40,11 @@
 
 ##  Awards
 
-- 🏆 **Grand Prize** — DACOS & SOLUX 공동 주최 해커톤 `2024.09`<br>
-- 🥇 **Best Award** — DACOS 데이터톤 `2024.05`<br>
-- 🥇 **Best Award** — [대웅재단·숙명여자대학교 공동 AI 해커톤](https://github.com/withya16/RupaRupa) `2025.09`<br>
-- 🥉 **Merit Award** — [카카오 × 한국정보과학회 AI 에이전트 경진대회](https://github.com/withya16/research-mate) `2025.11`<br>
-- 🥉 **Merit Award** — [SM data 공모전](https://github.com/withya16/SM-data) `2025.11`
+- 🏆 Grand Prize — DACOS & SOLUX 공동 주최 해커톤 `2024.09`<br>
+- 🥇 Best Award — DACOS 데이터톤 `2024.05`<br>
+- 🥇 Best Award — [대웅재단·숙명여자대학교 공동 AI 해커톤](https://github.com/withya16/RupaRupa) `2025.09`<br>
+- 🥉 Merit Award — [카카오 × 한국정보과학회 AI 에이전트 경진대회](https://github.com/withya16/research-mate) `2025.11`<br>
+- 🥉 Merit Award — [SM data 공모전](https://github.com/withya16/SM-data) `2025.11`
 
 
 
