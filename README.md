@@ -58,7 +58,6 @@
 ## 📄 Publications
 
 [**Reviewer-RAG: 근거 검증 기반 RAG의 정확도 향상 분석**](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12577765) `2025.12`
-> 한국정보과학회 KSC2025 · Multi-Agent · pgvector · CrewAI · GPT-4o · [GitHub](https://github.com/withya16/multiagent-rag-fact-verification)
 
 
 
