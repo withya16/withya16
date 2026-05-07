@@ -28,14 +28,14 @@
 
 ## 📌 Experience & Activities
 
-**대웅제약 AX팀** — 인턴 `2026.02 – Present` <br>
-**CloudClub** - 9기 `2026.01 - Present` <br>
-**Snorose** — DevOps팀 `2026.01 - Present` <br>
-**대웅제약 CRM팀** — 글로벌 AI 장학생 `2025.11 - 2026.02` <br>
-**BOAZ** — 24기 엔지니어링 부문 대표 `2025.01 - 2026.01` <br>
-**GoGDC Sookmyung 24** — AI파트 `2024.09 - 2024.12` <br>
-**DACOS-Data-Analysis-Club-Of-Sookmyung** -  데이터 분석 학회 부원 및 운영진 `2024.03 – Present` <br>
-**FORZA** `2023.03 - 2024.12`
+- **대웅제약 AX팀** — 인턴 `2026.02 – Present` <br>
+- **CloudClub** - 9기 `2026.01 - Present` <br>
+- **Snorose** — DevOps팀 `2026.01 - Present` <br>
+- **대웅제약 CRM팀** — 글로벌 AI 장학생 `2025.11 - 2026.02` <br>
+- **BOAZ** — 24기 엔지니어링 부문 대표 `2025.01 - 2026.01` <br>
+- **GoGDC Sookmyung 24** — AI파트 `2024.09 - 2024.12` <br>
+- **DACOS-Data-Analysis-Club-Of-Sookmyung** -  데이터 분석 학회 부원 및 운영진 `2024.03 – Present` <br>
+- **FORZA** `2023.03 - 2024.12`
 
 
 ## 🏆 Awards
