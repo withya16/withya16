@@ -28,9 +28,10 @@
 
 ## Experience & Activities
 
-- 대웅제약 AX팀 — 인턴 `2026.02 – Present` <br>
-- CloudClub - 9기 `2026.01 - Present` <br>
+- 대웅제약 데이터거버넌스팀 — 데이터엔지니어 `2026.09 – Present` <br>
+- 대웅제약 AX팀 — 인턴 `2026.02 – 2026.08` <br>
 - Snorose — DevOps팀 `2026.01 - Present` <br>
+- CloudClub - 9기 `2026.01 - 2026.07` <br>
 - 대웅제약 CRM팀 — 글로벌 AI 장학생 `2025.11 - 2026.02` <br>
 - BOAZ — 24기 데이터 엔지니어링 부문 대표 `2025.01 - 2026.01` <br>
 - GoGDC Sookmyung — 24-25 AI파트 `2024.09 - 2024.12` <br>
