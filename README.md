@@ -46,7 +46,7 @@ Also exploring where this foundation meets AI: agent systems and AX initiatives 
 
 ## 💭 Certifications & Language
 
-![SQLD](https://img.shields.io/badge/SQLD-취득-blue?style=flat-square) ![ADsP](https://img.shields.io/badge/ADsP-취득-blue?style=flat-square) ![OPIc](https://img.shields.io/badge/OPIc-AL-green?style=flat-square)
+![SQLD](https://img.shields.io/badge/SQLD-Certified-0052CC?style=for-the-badge) ![ADsP](https://img.shields.io/badge/ADsP-Certified-0052CC?style=for-the-badge) ![OPIc](https://img.shields.io/badge/OPIc-AL-2E8B57?style=for-the-badge)
 
 ---
 
